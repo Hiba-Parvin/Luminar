@@ -101,16 +101,59 @@ a {
     width: 1200px;
     text-align: justify;
 }
+#img3{
+    height: 500px;
+}
 .part5{
-    width: 1300px;
+    width: 1200px;
     text-align: justify;
     margin: auto;
-    padding-top: 60px;
+    padding-top: 30px;
     padding-bottom: 60px;
+}
+.part5:hover{
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 8px 0 rgba(0, 0, 0, 0.1);
 }
 h5,h2{
     color: rgb(107, 35, 143) ;
 }
-h6{
-    color: rgb(128, 52, 167) ;
+h6,.p5h2{
+    color: rgb(153, 64, 197) ;
+}
+.p5h{
+    margin-top: 70px;
+    text-align: center;
+}
+.p5p{
+    color: rgb(107, 35, 143) ;
+    padding: 15px;
+}
+#p6a{
+    text-decoration: none;
+        color: rgb(107, 35, 143) ;
+        font-weight: 500;
+
+}
+
+.part6{
+    width: 100%; 
+padding-left: 150px;
+}
+.csize{
+    float: left;
+    margin: 20px;
+    border: none;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.csize:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.p6b{
+background-color: rgb(107, 35, 143) ;
+color: aliceblue;
+
+padding: 10px 20px;
+}
+.p6p{
+    margin-bottom: 100px;
 }
